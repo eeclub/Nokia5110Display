@@ -1,0 +1,4 @@
+imageio==2.4.1
+numpy==1.15.4
+Pillow==5.4.1
+pyserial==3.4
